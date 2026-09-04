@@ -1,9 +1,9 @@
 ## Olá, eu sou o Arthur!🙋‍♂️
+### Tenho experiência com desenvolvimento em Python, React e Dados
+#### Sou formado em Análise e Desenvolvimento de Sistemas e estou em busca contínua por novos conhecimentos 💡
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/arthurrmartins/")
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]("https://github.com/oarthurrm")
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oarthurrm&show_icons=true&theme=dark)
 
 ### Tecnologias
 <div style="display: inline-block">
@@ -14,8 +14,3 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
 </div>
-
-### Ranking de Tecnologias
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurrm&layout=compact)
-
-#### Curioso na área de tecnologia e buscando novos desafios e aprendizados!
